@@ -6,17 +6,13 @@
     box-sizing: border-box;
 
 }
-
 body{
     /* height: 100%;
     width: 100%; */
     font-family: 'Bodoni Moda', serif;
-    font-size: 1.2rem;
-    
+    font-size: 1.2rem;   
 }
-body{
-   
-}
+
 .container{
 min-height: 100vh;
 display: flex;
@@ -28,16 +24,13 @@ background: linear-gradient(to  right, #041308, #0b3317);
 
 .left-tex{
     flex-basis: 20%;
-
 }
-
 
 .heading{
     font-size: 3rem;
     color: white;
     text-align: center;
 }
-
 .subheading{
     color: #ddd;
     margin-top: 10px;
@@ -69,9 +62,6 @@ background: linear-gradient(to  right, #041308, #0b3317);
     background-position: center;
     box-shadow: 0 0 4px #fff;
     cursor: pointer;
-
-
-
 }
 .row-2{
     grid-row: span 2;
