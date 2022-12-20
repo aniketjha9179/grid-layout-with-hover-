@@ -72,14 +72,11 @@ background: linear-gradient(to  right, #041308, #0b3317);
     background-position: center;
     box-shadow: 0 0 4px #fff;
     cursor: pointer;
-
-
-
 }
 .row-2{
     grid-row: span 2;
-
 }
+
 .col-2{
     grid-column: span 2;
 }
@@ -100,6 +97,7 @@ background: linear-gradient(to  right, #041308, #0b3317);
             grid-column: span 3;
         }
 }
+
 
 @media screen  and (max-width:724px) {
     .container{
